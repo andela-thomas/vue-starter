@@ -1,0 +1,21 @@
+{
+  "name": "vue-starter",
+  "description": "",
+  "main": "gulpfile.babel.js",
+  "authors": [
+    "Nyambati Thomas <thomas.nyambati@andela.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/andela-thomas/vue-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
